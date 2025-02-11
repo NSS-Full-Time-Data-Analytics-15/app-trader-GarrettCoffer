@@ -1,0 +1,25 @@
+Attached is an Excel document with our findings.
+
+Our general recommendations are targeting specific genres -- specifically Catalogs and Books, with a higher average profitability than other groupings.
+(See Excel tab 3A_genre and 3A_price_range for comparison data, and note how the genre is generally more reliable than the price range for average calculated profitability.)
+
+We recommend these 10 apps based on the criteria of the greatest total projected profit over the lifetime of the app.  They are listed in both the Apple App Store and Google Play Store, so advertising can be focused more generally instead of targeting a specific app store market.  The average projected lifetime profit is around $1,100,000.
+ASOS
+Domino's Pizza USA
+Egg, Inc.
+PewDiePie's Tuber Simulator
+The Guardian
+Cytus
+Geometry Dash Lite
+H*nest Meditation
+Bible
+Fernanfloo
+(See Excel tab Top_10_Profitable_Apps for data.)
+
+Thematic recommendations for Pi Day are:
+Egg, Inc. (a game featuring eggs, a key ingredient in pie)
+Domino's Pizza USA (an app to order pizza pie)
+Microsoft Excel (software to calculate numbers like pi)
+DoorDash - Food Delivery (a service app to order food like pie)
+
+The average expected lifetime profit for the Pi Day recommendations is about $1,070,000.
